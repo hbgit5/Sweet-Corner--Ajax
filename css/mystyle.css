@@ -1,0 +1,469 @@
+
+#top-header {
+    margin: auto;
+    height: 88px;
+    background-image: url(../img/header.png);
+    background-repeat: no-repeat;
+}
+
+header {
+    height: 425px;
+    width: 100%;
+    position: relative;
+}
+
+#nav-list li {
+    margin-right: 5px;
+    color: #754b23;
+    text-decoration: none;
+    font-size: 14px;
+}
+ul#nav-list li a:hover {
+    color: #06b4af;
+}
+
+nav {
+    right: 0px;
+    top: 113px;
+    position:absolute;
+}
+
+.list-clean {
+
+    margin: 0px;
+    padding: 0;
+    list-style-type: none;
+
+}
+.container {
+    width: 100%;
+    margin: auto;
+    left:0;
+    top:0;
+    font-family:arial;
+    font-color:#754b23;
+    position:relative;
+  
+}
+
+.list-left li {
+
+    float: left;
+
+}
+
+ul {
+
+    float: right;
+}
+
+html,
+
+body {
+    width:1000px;
+margin: 0;
+padding: 0;
+font-family: Arial;
+}
+
+#header-text {
+    position: absolute;
+    bottom: 20px;
+}
+
+#nav-list li a {
+float: right;
+display: block;
+color: #754b23;
+text-decoration: none;
+padding: 15px;
+font-size: 13px;
+text-transform: uppercase;
+
+}
+
+.list-left li {
+
+    float: left;
+
+}
+
+#brown-line {
+    width:100%;
+    height:24px;
+    background-color:#754b23;
+}
+
+.content-title-editor {
+    color:#754b23;
+    position:relative;
+    right:0;
+    top:0;
+    }
+
+#logo {
+    display: block;
+    margin: auto;
+    margin-top: 40px;
+}
+
+.strips2 {
+    background-image:url(../img/strips2.png);
+    position:abslolute;
+}
+
+#body-text {
+    width:50%;
+    margin-left:40px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+
+.wrapper {
+    text-align:center;
+    position: relative; 
+}
+
+#picture-text {
+    position:relative;
+    width:100%;
+}
+
+.italic-text {
+    width: 100%;
+    text-align: center;
+    color:#754b23;
+    font-family:Dancing Script; 
+	font-size: 18px;
+	font-style: normal;
+	font-variant: normal;
+}
+
+#body-image {
+    background: url(../img/strips2.png) top right repeat-y;
+    width: 100%;
+    height:50%
+    position: relative;
+}
+
+.content-strips2 {
+    background: url(../img/strips2.png) top right repeat-y;
+    width: 100%;
+    position: relative;
+}
+footer {
+    height: 80px;
+    width: 100%;
+    background: #06b4af;
+    color: white;
+    position:relative;
+    bottom:0;
+    left:0;  
+}
+
+footer p {
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    margin: 0;
+}
+
+#footer-dot {
+    position: absolute;
+    top: 18px;
+    left: 63px;
+}
+
+#footer-tel {
+    padding-left: 23px;
+    background: url(../img/phone.png) center left no-repeat;
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    right: 64px;
+    top: 42px;
+}
+
+ul#nav-list li a:hover {
+    color: #06b4af;
+}
+
+#body-dot {
+    width: 110px;
+    height: 127px;
+    background: url(../img/dots-box2.png) no-repeat;
+    position: absolute;
+    right: 29px;
+    top: 19px;
+}
+
+#cupcake-container {
+    margin-top: 15px;
+}
+
+.contentstrips1 {
+    background: url(../img/strips1.png) top right repeat-y;
+    width: 100%;
+    height:428px;
+    margin-left:0px;
+    position:relative;
+}
+
+#body-dot1 {
+    width: 110px;
+    height: 127px;
+    background: url(../img/dots-box1.png) no-repeat;
+    position: absolute;
+    right: 200px;
+    top: 90px;
+}
+
+#body-text1 {
+    width:500px;
+    margin-left:45px;
+    margin-top:0
+}
+
+#cupcake-container2 {
+    margin-top:20px;
+    width:100%;
+}
+
+.content-strips1 {
+    background: url(../img/strips1.png) top right repeat-y;
+    width: 100%;
+    margin-left:0px;
+    text-align:justify;
+    position:relative;
+}
+
+#body-text2 {
+    margin-left:justify;
+    width:60%;
+    margin-left:15px;
+    position:relative;
+}
+
+#cupcake-container3 {
+    width:100%;
+    height:450px;
+    margin-bottom:5px;
+    margin-top:5px;
+}
+
+.contact-form {
+    display: inline-block;
+    position:absolute;
+    right:0px;   
+}
+
+#name {
+     background-color: #e86b35;
+    margin-bottom: 10px;
+    width:295px;
+    height:35px;
+    text-area:15px;
+    padding:0 0 0 15px;
+    border:0px;
+}
+
+#email {
+   margin-bottom: 10px;
+    width:295px;
+    height:35px;
+    text-area:15px;
+    padding:0 0 0 15px;
+    border:0px;
+    background-color: #f6b53e;
+}
+
+#phone {
+    margin-bottom: 10px;
+    width:295px;
+    height:35px;
+    text-area:15px;
+    padding:0 0 0 15px;
+    border:0px;
+    background-color: #06b4af;
+}
+
+#Subject {
+   margin-bottom: 10px;
+    width:295px;
+    height:35px;
+    text-area:15px;
+    padding:0 0 0 15px;
+    border:0px;
+    background-color: #e86b35;
+}
+
+#Message {
+    margin-bottom: 10px;
+    width:295px;
+    text-area:15px;
+    padding:0 0 0 15px;
+    border:0px;
+    height:115px;
+    background-color: #f6b53e;
+}
+
+#send {
+    margin-bottom: 10px;
+    text-area:15px;
+    padding:0 0 0 15px;
+    border:0px;
+    width:155px;
+    height:35px;
+    background-color: #06b4af;
+    color:white;
+    text-align:center;
+    text-transform: uppercase;
+    font-weight: bold;
+    float:right;
+}
+
+a.link {
+    text-decoration:none;
+}
+
+#email-us {
+    text-decoration:none;
+}
+table {
+    height:35px;
+    weight:152px;
+    border-color:white;
+}
+
+.schedule-table {
+    height:35px;
+    weight:152px;  
+    border-spacing: 10px;
+    padding:0px;
+    border:0px;
+    top:20px;
+    left:0;
+    position:relative;
+}
+
+.hours {
+    border-color:white;
+    padding:2px; 
+    margin:2px;
+}
+
+.clear-float {
+    clear:both;
+}
+
+td {
+    background-color:#f6ede6;
+}
+
+
+
+th {
+    width: 152px;
+    height: 35px;
+    background: #f6ede6;
+    font-weight: normal;
+    
+}
+
+#contact-form {
+    width: 50%;
+    right: -600px;
+    top: -188px;
+    color: #754b23;
+    position:relative;
+    left:600;
+}
+
+#contact-text {
+    width: 50%;
+    margin-left: 40px;
+    padding-top: 50px;
+    color: #754b23;
+    position:relative;
+    left:0;
+    top:0;
+}
+
+#upper-dot {
+    position: absolute;
+    top: 200px;
+    left: -350px;
+}
+
+h4 {
+    margin-top: 0;
+    color:#754b23;
+}
+
+.contact-info {
+    position:relative;
+    top:0;
+    left:0;
+}
+
+.container-aboutus {
+    width: 1000px;
+    margin: auto;
+    left:0;
+    top:0;
+    font-family:arial;
+    font-color:#754b23;
+    position:relative;
+}
+
+form {
+    display:inline-block
+}
+#schedule-table th {
+    width: 152px;
+    height: 35px;
+    background: #f6ede6;
+    
+    font-weight: normal;
+}
+
+#schedule-table td {
+    background: #f6ede6;
+    width: 217px;
+    height: 35px;
+    text-align: center;
+}
+
+#schedule-table {
+    border-spacing: 10px;
+    margin-left: -10px;
+    color: #754b23;
+    font-family:arial;
+}
+
+   
+
+
+#schedule-container {
+    font-family:arial;
+    color:#754b23;
+    position:relative;
+    top:-150px;
+    left:50px;
+}
+
+#dots-lower {
+    position:relative;
+    top:-150px;
+    left:500px;
+}
+relarelative
+#picture-text {
+    width:100%;
+    
+}
+
+.page-picture {
+    width:100%;
+}
